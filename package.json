@@ -1,0 +1,31 @@
+{
+  "name": "decltype-loader",
+  "version": "1.0.0",
+  "description": "Decltype for typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd test && webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrcSnm/decltype-loader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrcSnm/decltype-loader/issues"
+  },
+  "homepage": "https://github.com/MrcSnm/decltype-loader#readme",
+  "devDependencies": {
+    "@babel/core": "^7.14.3",
+    "@babel/plugin-transform-typescript": "^7.14.3",
+    "@babel/preset-env": "^7.14.2",
+    "@babel/preset-typescript": "^7.13.0",
+    "babel-jest": "^27.0.1",
+    "babel-loader": "^8.2.2",
+    "jest": "^27.0.1",
+    "webpack": "^5.37.1",
+    "webpack-cli": "^4.7.0"
+  }
+}
