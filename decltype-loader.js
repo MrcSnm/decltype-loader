@@ -1,3 +1,9 @@
+/**
+ * @author Marcelo Mancini | Hipreme | MrcSnm
+ * @since 2021
+ */
+
+
 const loader_utils = require("loader-utils");
 
 
